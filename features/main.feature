@@ -6,3 +6,4 @@ Feature: Common feature
     Then validate main page
     Then click header button "lapas_karte"
     Then click header button "galerijas"
+    Then click header button "studentu_dzive"
