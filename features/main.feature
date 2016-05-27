@@ -5,3 +5,4 @@ Feature: Common feature
     Given visit home page
     Then validate main page
     Then click header button "lapas_karte"
+    Then click header button "galerijas"
